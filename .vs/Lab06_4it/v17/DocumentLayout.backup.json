@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FurryFob\\source\\repos\\Lab06_4it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C627B9-868F-4EDE-96E1-0078F2320312}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\FurryFob\\source\\repos\\Lab06_4it\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93C627B9-868F-4EDE-96E1-0078F2320312}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77CDB9E-041B-46EF-9420-AB6B83C48A98}|Lab06_4it\\Lab06_4it.vcxproj|C:\\Users\\FurryFob\\source\\repos\\Lab06_4it\\Lab06_4it\\Lab06_4it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77CDB9E-041B-46EF-9420-AB6B83C48A98}|Lab06_4it\\Lab06_4it.vcxproj|solutionrelative:Lab06_4it\\Lab06_4it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\FurryFob\\source\\repos\\Lab06_4it\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\FurryFob\\source\\repos\\Lab06_4it\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T12:01:45.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab06_4it.cpp",
+              "DocumentMoniker": "C:\\Users\\FurryFob\\source\\repos\\Lab06_4it\\Lab06_4it\\Lab06_4it.cpp",
+              "RelativeDocumentMoniker": "Lab06_4it\\Lab06_4it.cpp",
+              "ToolTip": "C:\\Users\\FurryFob\\source\\repos\\Lab06_4it\\Lab06_4it\\Lab06_4it.cpp",
+              "RelativeToolTip": "Lab06_4it\\Lab06_4it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T10:22:57.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
